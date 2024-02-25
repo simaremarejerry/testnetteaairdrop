@@ -1,0 +1,2 @@
+# testnetteaairdrop
+testnet tea airdrop 
